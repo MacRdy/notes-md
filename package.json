@@ -1,0 +1,30 @@
+{
+	"name": "@macrdy/notes-md",
+	"version": "0.0.0",
+	"scripts": {
+		"build": "tsc --project tsconfig.lib.json",
+		"format:write": "prettier --write --list-different \"**/*{.ts,.js,.json}\"",
+		"format:check": "prettier --list-different \"**/*{.ts,.js,.json}\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MacRdy/notes-md.git"
+	},
+	"author": "Anton Shibaev",
+	"license": "MIT",
+	"homepage": "https://github.com/MacRdy/notes-md#readme",
+	"description": "",
+	"main": "dist/src/index.js",
+	"types": "dist/src/index.d.ts",
+	"files": [
+		"dist"
+	],
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com"
+	},
+	"devDependencies": {
+		"prettier": "^3.5.3",
+		"ts-node": "^10.9.2",
+		"typescript": "^5.8.3"
+	}
+}
