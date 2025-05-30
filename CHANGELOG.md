@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/MacRdy/notes-md/compare/v1.0.0...v1.0.1) (2025-05-30)
+
+
+### Bug Fixes
+
+* publish ([0fe2038](https://github.com/MacRdy/notes-md/commit/0fe2038a87d9d5bbed46787ea3be416203e34261))
+* publish ([5211efc](https://github.com/MacRdy/notes-md/commit/5211efcc542428f8e2d27d882f8646171f18fb4b))
+
 ## 1.0.0 (2025-05-30)
 
 
