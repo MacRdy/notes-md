@@ -6,7 +6,7 @@
 		"declaration": false,
 		"importHelpers": true,
 		"target": "ES2022",
-		"module": "Preserve",
+		"module": "CommonJS",
 		"moduleResolution": "Node",
 		"skipLibCheck": true,
 		"skipDefaultLibCheck": true,
