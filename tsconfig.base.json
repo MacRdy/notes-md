@@ -6,7 +6,8 @@
 		"declaration": false,
 		"importHelpers": true,
 		"target": "ES2022",
-		"module": "ES2022",
+		"module": "Preserve",
+		"moduleResolution": "Node",
 		"skipLibCheck": true,
 		"skipDefaultLibCheck": true,
 		"baseUrl": "."
