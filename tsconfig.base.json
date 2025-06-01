@@ -5,9 +5,9 @@
 		"sourceMap": true,
 		"declaration": false,
 		"importHelpers": true,
-		"target": "ES2022",
-		"module": "CommonJS",
-		"moduleResolution": "Node",
+		"target": "es2022",
+		"module": "preserve",
+		"moduleResolution": "node10",
 		"skipLibCheck": true,
 		"skipDefaultLibCheck": true,
 		"baseUrl": "."
