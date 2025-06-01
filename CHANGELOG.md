@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.8](https://github.com/MacRdy/notes-md/compare/v1.0.7...v1.0.8) (2025-06-01)
+
+
+### Bug Fixes
+
+* esm only ([881d710](https://github.com/MacRdy/notes-md/commit/881d7102af50b3ca1c8ee9b5006aa0efa94e3faf))
+
 ## [1.0.7](https://github.com/MacRdy/notes-md/compare/v1.0.6...v1.0.7) (2025-05-31)
 
 
