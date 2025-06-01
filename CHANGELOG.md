@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/MacRdy/notes-md/compare/v1.1.1...v1.1.2) (2025-06-01)
+
+
+### Bug Fixes
+
+* m ([a33ae7f](https://github.com/MacRdy/notes-md/commit/a33ae7f153c73869eacb78d502fb8cbedf001096))
+
 ## [1.1.1](https://github.com/MacRdy/notes-md/compare/v1.1.0...v1.1.1) (2025-06-01)
 
 
