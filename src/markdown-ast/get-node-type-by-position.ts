@@ -1,5 +1,5 @@
 import { CONTINUE, EXIT, visit } from '@flex-development/unist-util-visit';
-import { Node } from './markdown-to-ast/markdown-to-ast';
+import { Node } from './markdown-to-ast';
 
 export const getNodeTypeByPosition = (ast: Node, position: number): string | undefined => {
 	let nodeType: string | undefined = undefined;
