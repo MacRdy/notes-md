@@ -6,7 +6,7 @@
 		"declaration": false,
 		"importHelpers": true,
 		"target": "ES2022",
-		"module": "ESNext",
+		"module": "CommonJS",
 		"moduleResolution": "node10",
 		"skipLibCheck": true,
 		"skipDefaultLibCheck": true,
